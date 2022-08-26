@@ -1,0 +1,22 @@
+@font-face {
+    font-family: cookie;
+    src: url(../fonts/Cookie-Regular.ttf);
+}
+
+html, body{
+    margin:0;
+    padding:0;
+    font-family: cookie,cursive;
+    text-align: center;
+}
+
+.salida{
+    text-transform: uppercase;  
+    font-weight: bold;
+    border: 1px solid #000000;
+    padding: 1rem;
+    margin:1rem;
+
+    font-size: 2rem;
+    letter-spacing: 0.4;
+}
